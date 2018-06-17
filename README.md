@@ -75,14 +75,14 @@
 - 第二十二天 二十三天 休假游玩
 - 第二十四天 总结
 - 第二十五天,日程安排5本书
-Head First Javascript 
-Head First jQuery
-Head First web设计
-Head First 设计模式
-HTML CSS 权威指南.
-复习PHP & MySQL
+  Head First Javascript 
+  Head First jQuery
+  Head First web设计
+  Head First 设计模式
+  HTML CSS 权威指南.
+  复习PHP & MySQL
 - 第二十六天 整理PHP基础知识和之前的HTML知识,
-划上圆满的句号
+  划上圆满的句号
 - 第二十七天 休息 整理完文章开始看书 JavaScript学习
 - 第二十八天 更新文章
 - 第二十九天 学习
@@ -93,8 +93,8 @@ HTML CSS 权威指南.
 - 第三十四天 学习告一段落.
 - 目前更新学习方法 为3.0
 - 其中1.0版本为学习. 
-2.0版本为学习+输出.
-3.0版本为学习+输出+实践,
+  2.0版本为学习+输出.
+  3.0版本为学习+输出+实践,
 - 第三十五天 读 MySQL快速入门 
 - 第三十六天 休息一天,
 - 第三十七天 总结四篇文 章 看一本书 App后台应用开发 学习PDO,PHP精要 MySQL
@@ -110,11 +110,11 @@ HTML CSS 权威指南.
 - 第四十七天 放假休息
 - 第四十八天 实操PHP和MySQL项目
 - 第四十九天 
-总结PHP & MySQL
-预习PHP面向对象 MVC 博客源码 要看懂
-ThinkPHP
-刷Github. 刷各种网站.
-整理18年书单
+  总结PHP & MySQL
+  预习PHP面向对象 MVC 博客源码 要看懂
+  ThinkPHP
+  刷Github. 刷各种网站.
+  整理18年书单
 - 第五十天 总结 核心 5月2
 - 第五十一天  总结核心编程 学习jQuery和AJAX
 - 第五十二天 阅读细说网页制作 & 细说JavaScript
@@ -132,7 +132,7 @@ ThinkPHP
 - 第六十四天 登录注册必须做完 5月16
 - 第六十五天 搞项目 然后看Yii
 - 第六十六天 开始学习Linux
-待读的有RESTFul的两本书
+  待读的有RESTFul的两本书
 - 第六十七天 休息
 - 第六十八天 继续研究Yii框架 以及Yii2
 - 第六十九天 研究一下Nodejs 和工程化开发
@@ -147,7 +147,7 @@ ThinkPHP
 - 第七十八天 阅读 JavaScript编程精粹 开始敲 打飞机 小Demo
 - 第七十九天  敲完[打飞机小Demo](https://github.com/DreamerWinston/HitPlane)
 - 第八十天 项目 JavaScript 读六本书
-Nodejs开始、小程序、公众号、更新文章、6月20号之前搞Linux
+  Nodejs开始、小程序、公众号、更新文章、6月20号之前搞Linux
 - 第八十一天 再敲[打飞机星战小Demo](https://github.com/DreamerWinston/StarWar) 
 - 第八十二天 开始看设计模式 将SICP列入看书名单中
 - 第八十三天 研究JQuery和Bootstrap的源码(搁置) 看完JS书籍和网站后
@@ -158,6 +158,13 @@ Nodejs开始、小程序、公众号、更新文章、6月20号之前搞Linux
 - 第八十七天 继续阅读 新时期的Nodejs入门 和Nodejs开发实战
 - 第八十八天 休息
 - 第八十九天 第三阶段学习完毕,开始总结
+- 第九十天 总结完毕,开始node实战
+- 第九十一天 整合开源项目 
+- 第九十二天 整合开源项目
+- 第九十三天  整合开源项目
+- 第九十四天 写node爬虫demo1
+- 第九十五天 写node爬虫demo2
+- 第九十六天 看锋利的JQuery
 
 
 
