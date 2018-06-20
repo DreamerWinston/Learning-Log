@@ -165,6 +165,10 @@
 - 第九十四天 写node爬虫demo1
 - 第九十五天 写node爬虫demo2
 - 第九十六天 看锋利的JQuery
+- 第九十七天 休息一天
+- 第九十八天 学习vue
+- 第九十九天 学习TCP/IP协议
+- 第一百天 学习RESTFul API
 
 
 
