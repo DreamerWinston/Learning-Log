@@ -19,7 +19,7 @@
 
 - Head First HTML &CSS
 - Head First HTML5 Progreaming
--  Head First PHP & MySQL
+- Head First PHP & MySQL
 - 图解HTTP
 - CSS世界(搁置)
 - HTML5&CSS3权威指南(搁置)
@@ -36,24 +36,33 @@
 - MySQL5.7从入门到精通
 - PHP和MySQL Web开发(阅读中)
 - PHP+MySQL开发实战(阅读中)
-
 - 细说网页制作
 - 细说JavaScript
 - 细说DOM
 - 细说AJAX和JQuery
 - 细说HTML5高级API
-
 - JavaScript高级程序设计第3版
 - JavaScript设计模式与开发实践
 - JavaScript编程精粹
 - ES6标准入门
-
 - B/S项目实战开发
 - 疯狂前端开发讲义jQuery+AngularJS+Bootstrap前端开发实战
-
 - nodejs开发实战
 - 新时期的nodejs入门
 - 全栈开发之道:MongoDB+Express+AngularJS+Node.js
+- 鸟哥的Linux私房菜 基础篇 学习笔记
+- Liunx服务器运维 读书笔记
+
+- 深入理解计算机系统 读书笔记
+- 鸟哥的Linux私房菜 服务器架设篇  学习笔记
+- MySQL高性能学习笔记
+- UNIX 网络编程 (搁置)
+* HeadFirst C
+- Web全栈工程师的自我修养
+- Docker实践
+- 精通Nginx 第二版
+- 深入剖析Vue
+* Vue.js实战
 
 ## 学习日志
 在总结完iOS开发笔记和路线以后,对自己的iOS开发有一个交代以后,我便开始了我的全栈自学之路.本人目前全身心投入全栈学习中.
@@ -169,6 +178,20 @@
 - 第九十八天 学习vue
 - 第九十九天 学习TCP/IP协议
 - 第一百天 学习RESTFul API
+- 第一百零一天 读完RESTFul Web APIs
+- 第一百零二天 Linux 鸟哥私房菜 基础篇
+- 第一百零三天 Linux 鸟哥私房菜 基础篇 C程序设计语言
+- 第一百零五天 Linux 鸟哥私房菜 基础篇
+- 第一百零六天 Linux 鸟哥私房菜 基础篇
+- 第一百零七天  Linux 老男孩运维 web集群
+- 第一百零八天  Linux 老男孩运维 web集群
+- 第一百零九天  Linux 老男孩运维 web集群
+- 第一百一十天  Linux 老男孩运维 web集群
+- 第一百一十一天 HeadFirst C
+- 第一百一十二天  阅读Vuejs实战
+- 第一百一十三天 阅读Vuejs实战
+- 第一百一十四天 阅读Vuejs实战
+- 第一百一十五天 阅读Vue项目Demo
 
 
 
